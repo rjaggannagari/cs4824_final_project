@@ -1,0 +1,6 @@
+1. https://pandas.pydata.org/docs/index.html
+    - Used to clean/process data
+2. https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one-hot-encoder-911ef77fb5bd
+    - Needed to encode specfic columns
+3. https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset?resource=download&select=anime-dataset-2023.csv
+    - Dataset that is used ML
