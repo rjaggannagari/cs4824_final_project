@@ -4,3 +4,5 @@
     - Needed to encode specfic columns
 3. https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset?resource=download&select=anime-dataset-2023.csv
     - Dataset that is used ML
+4. https://www.mdpi.com/2079-9292/11/1/141
+5. 
