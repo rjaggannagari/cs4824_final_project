@@ -4,5 +4,11 @@
     - Needed to encode specfic columns
 3. https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset?resource=download&select=anime-dataset-2023.csv
     - Dataset that is used ML
-4. https://www.mdpi.com/2079-9292/11/1/141
-5. 
+4. https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20List.html
+    - Used for making sliders
+     
+Research Articles
+- https://www.scitepress.org/Papers/2021/107275/107275.pdf
+- https://d1wqtxts1xzle7.cloudfront.net/59762468/10.1.1.695.642820190617-91457-z4s1rf-libre.pdf?1560756140=&response-content-disposition=inline%3B+filename%3DSurvey_on_Collaborative_Filtering_Conten.pdf&Expires=1713753041&Signature=FBmXjQ6JE1-nLznbQ4rD9vGbAXMq54iXAp34iDOIVw-PiKoLplTkwMDle7LbJjXhM909OdtBMiAHICWyl1QJltH5lEhB4GzaxNlajjy7edZf3uSshVfNRMYOICc~mE0PqAdugZ7bekBRdn2vznYR1FR4WZZXDqWAUJ44uGfpWn2YZMgGi8A9zm2~uJXPu7M37to9flib8ZYEXRszIjwovOArignhnX07YtActE2oCFOKw213eUZfblaxWnN198sbaPa1VDjvcmFabgdy3x0hcjBJhDK5LuD~UY47mTnQ-r8H6-H1UYki8CFq4d3gFKecWynSdUViF8~8lok1RmYWbA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA 
+- https://www.mdpi.com/2079-9292/9/8/1295
+- file:///C:/Users/rjagg/Downloads/Mastering-Machine-Learning-With-scikit-learn.pdf
