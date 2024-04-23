@@ -6,6 +6,12 @@
     - Dataset that is used ML
 4. https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20List.html
     - Used for making sliders
+5. https://docs.python.org/3/library/warnings.html
+    - Supress warnings
+6. https://datatofish.com/list-to-dataframe/
+    - List to dataframe
+7. https://docs.python.org/3/library/math.html#math.dist
+    - Rank the outputs
      
 Research Articles
 - https://www.scitepress.org/Papers/2021/107275/107275.pdf
