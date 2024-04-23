@@ -4,14 +4,16 @@
     - Needed to encode specfic columns
 3. https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset?resource=download&select=anime-dataset-2023.csv
     - Dataset that is used ML
-4. https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20List.html
-    - Used for making sliders
-5. https://docs.python.org/3/library/warnings.html
+4. https://docs.python.org/3/library/warnings.html
     - Supress warnings
-6. https://datatofish.com/list-to-dataframe/
-    - List to dataframe
-7. https://docs.python.org/3/library/math.html#math.dist
-    - Rank the outputs
+5. https://datatofish.com/list-to-dataframe/
+    - Turning a list into a dataframe
+6. https://docs.python.org/3/library/math.html#math.dist
+    - Get the euclidean distance from each set of vectors
+7. https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa
+    - Figuring out what metrics I wanted to use
+8. https://scikit-learn.org/stable/index.html
+    - For k-Means, cosine similarity, manhattan distances
      
 Research Articles
 - https://www.scitepress.org/Papers/2021/107275/107275.pdf
