@@ -14,6 +14,10 @@
     - Figuring out what metrics I wanted to use
 8. https://scikit-learn.org/stable/index.html
     - For k-Means, cosine similarity, manhattan distances
+9. https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html
+    - Plotting PCA
+10. https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA.fit_transform
+    - Reducing the data
      
 Research Articles
 - https://www.scitepress.org/Papers/2021/107275/107275.pdf
